@@ -1,0 +1,13 @@
+# Useful search templates
+# The scraper generates these automatically, but you can use them manually too.
+
+site:instagram.com "Karachi" "clothing" "DM to order"
+site:instagram.com "Karachi" "clothing" "WhatsApp"
+site:instagram.com "Karachi" "clothing" "COD"
+site:instagram.com "Karachi" "clothing" "PKR"
+site:instagram.com "Karachi" "clothing" "delivery"
+
+# Stronger intent signals
+site:instagram.com "Pakistan" "DM to order" "WhatsApp"
+site:instagram.com "Pakistan" "cash on delivery" "Instagram"
+site:instagram.com "Karachi" "order via DM" "PKR"
